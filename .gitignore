@@ -1,0 +1,48 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# PyCharm specific files
+.idea/
+*.iml
+
+# Flask specific files
+instance/
+*.log
+
+# Jupyter Notebook files
+.ipynb_checkpoints
+
+# Coverage reports
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+
+# Test and build directories
+htmlcov/
+dist/
+build/
+eggs/
+*.egg-info/
+*.egg
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# VS Code specific files
+.vscode/
+
+# Other temporary files
+*.bak
+*.swp
+*.tmp
